@@ -1,5 +1,5 @@
 # Applied Data Analytics Program - New Jersey Class
-New Jersey hosted spring summer 2021 **Coleridge Initiative Applied Data Analytics workshop**. Participants will work in teams with higher education and employment agency data. The specific focus of the workshop will be on connecting post-secondary and workforce outcomes. The program will provide instruction on using big data tools including SQL and R. Participants will receive training on core data concepts such as record linkage and data visualization as well as cutting-edge training in machine learning.
+New Jersey hosted the spring summer 2021 **Coleridge Initiative Applied Data Analytics workshop**. Participants will work in teams with higher education and employment agency data. The specific focus of the workshop will be on connecting post-secondary and workforce outcomes. The program will provide instruction on using big data tools including SQL and R. Participants will receive training on core data concepts such as record linkage and data visualization as well as cutting-edge training in machine learning.
 
 **Datasets Used in the Class:**
 
