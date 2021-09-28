@@ -1,16 +1,19 @@
 # Applied Data Analytics Program - New Jersey Class
-New Jersey hosted the spring summer 2021 **Coleridge Initiative Applied Data Analytics workshop**. Participants will work in teams with higher education and employment agency data. The specific focus of the workshop will be on connecting post-secondary and workforce outcomes. The program will provide instruction on using big data tools including SQL and R. Participants will receive training on core data concepts such as record linkage and data visualization as well as cutting-edge training in machine learning.
+New Jersey Education to Earnings Data System (NJEEDS) hosted the spring/summer 2021 **Coleridge Initiative Applied Data Analytics workshop**. Participants worked in teams with higher education and employment agency data. The specific focus of the workshop was connecting post-secondary and workforce outcomes. The program provided instruction on using big data tools including SQL and R. Participants received training on core data concepts such as record linkage and data visualization as well as cutting-edge training in machine learning.
+
+This repository contains the class materials for the New Jersey applied data analytics program.
 
 **Datasets Used in the Class:**
 
-* New Jersey Office of the Secretary of Higher Education
-* New Jersey Department of Labor & Workforce Development
+* Office of the Secretary of Higher Education Enrollments Data
+
+* Office of the Secretary of Higher Education Completions Data
+
+* New Jersey Department of Labor and Workforce Development UI Wages Data
+
+* New Jersey Department of Labor and Workforce Development UI Employer Data
 
 **Class Program:**
-
-**Module 1** - Introduction to R and SQL
-
-**Module 2**
 
 April 28 - Introduction, Privacy and Confidentiality, and Project Scoping
 
@@ -27,8 +30,6 @@ May 7 - Basics and Applications of Data Visualization
 May 10 - Introduction to Machine Learning
 
 May 11 - Module 2 Project Status Presentations
-
-**Module 3**
 
 June 14 - Machine Learning Application
 
