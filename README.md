@@ -38,3 +38,7 @@ June 15 - Inference and Imputation
 June 17 - Privacy, Confidentiality, and Ethics
 
 June 18 - Exporting Data
+
+**References**
+
+The notebooks in this repository were inspired by previous applied data analytics class materials and notebooks.
